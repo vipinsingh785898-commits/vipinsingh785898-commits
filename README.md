@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**vipinsingh785898-commits/vipinsingh785898-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+  name:       "VIPIN_KUMAR",
+  role:       "Full Stack Developer",
+  location:   "Earth 🌍",
+  code:       ["JavaScript", "TypeScript", "Python", "Go"],
+  focus:      "Building scalable, elegant, and fast web apps",
+  currentlyLearning: ["WebAssembly", "Rust", "System Design"],
+  funFact:    "I debug in the dark — literally.",
+  available:  true // open to interesting projects 👀
+};
+```
